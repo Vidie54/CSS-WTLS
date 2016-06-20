@@ -14,13 +14,13 @@
         "forceSmartVote": false
     },
     "ccc": {
-        "admin": "#a8009a",
-        "ambassador": "#de00e6",
-        "host": "#EB7ABF",
-        "cohost": "#EB7ABF",
-        "manager": "#EB7ABF",
-        "bouncer": "#EB7ABF",
-        "rdj": "#EB7ABF",
+        "admin": "#FF0000",
+        "ambassador": "#FF0000",
+        "host": "#FF0000",
+        "cohost": "#FF0000",
+        "manager": "#FF0000",
+        "bouncer": "#FF0000",
+        "rdj": "#FF0000",
         "subscriber": null,
         "friend": null,
         "user": null
