@@ -1,8 +1,8 @@
 {
-    "room": "Tessin koutek",
-    "author": "Iba Tessi a nikto iny :-)",
+    "room": "GTA-MP.CZ",
+    "author": "Franta72 & Repi, special thanks Rohlik",
     "icon": "http://vgy.me/qXRliU.png",
-    "css": "https://rawgit.com/Tessi1998/Tessin-Emo-Koutek/master/style.css",
+    "css": "https://rawgit.com/Franta72/Tessin-Emo-Koutek/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": null
     },
     "images": {
-        "background": "http://i.imgur.com/MWUoyg4.jpg",
+        "background": "http://i.imgur.com/rxqHt9D.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
